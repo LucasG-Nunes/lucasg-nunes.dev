@@ -1,7 +1,3 @@
 export function Footer() {
-  return (
-    <main>
-      <h1>footer</h1>
-    </main>
-  );
+  return <h1>footer</h1>;
 }
